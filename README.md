@@ -1,7 +1,6 @@
-
-
-
 # Microsoft.Github CI Demo
+
+[![Build Status](https://dev.azure.com/marchantm0761/Contoso%20Air/_apis/build/status/EagleWizard28.ContosoAir?branchName=master)](https://dev.azure.com/marchantm0761/Contoso%20Air/_build/latest?definitionId=2&branchName=master)
 
 Demo website application for Contoso Air.  
 Runs a nodejs server (Express v4.16) that stores customer booked flights in a CosmosDb database.
